@@ -1,4 +1,4 @@
 # data-science-instructionals
 
 ## TODOs:
-[ ] Hidden Markov Models
+- [ ] Hidden Markov Models
