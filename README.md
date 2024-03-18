@@ -1,5 +1,5 @@
 # data-science-instructionals
 
 ## TODOs:
-- [ ]
-- [ ]
+[ ]
+[ ]
